@@ -1,4 +1,3 @@
-
 # Wildfire Hazard Modeling
 
 ## Introduction
@@ -46,17 +45,17 @@ The model produced detailed hazard maps showing areas of elevated wildfire susce
 #### Australia
 
 ![Australia Hazard Map](AUS.png) 
-*Australia wildfire hazard distribution.*
+
 
 #### Mediterranean Europe
 
 ![Mediterranean Europe Hazard Map](Mediterrian_EU.png) 
-*Mediterranean Europe hazard map outlook.*
+
 
 #### USA
 
 ![USA Hazard Map](USA.png) 
-*USA wildfire susceptibility map.*
+
 
 ## Conclusions
 The Maxent-based wildfire hazard model successfully captured key environmental and fire behavior drivers. With strong predictive performance and enhanced 100-meter outputs, this work supports more detailed wildfire planning and future scenario assessment under climate change.
@@ -64,4 +63,3 @@ The Maxent-based wildfire hazard model successfully captured key environmental a
 ## Notes
 - The model is best suited for presence-only wildfire data.
 - Downscaling and future projections improve operational relevance, but results should be interpreted with local context and expert input.
->>>>>>> 124aa2b (Initial commit)
