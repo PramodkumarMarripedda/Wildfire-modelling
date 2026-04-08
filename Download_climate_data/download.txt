@@ -1,0 +1,6 @@
+https://geodata.ucdavis.edu/climate/worldclim/2_1/base/wc2.1_30s_bio.zip
+https://geodata.ucdavis.edu/climate/worldclim/2_1/base/wc2.1_30s_elev.zip
+https://geodata.ucdavis.edu/cmip6/30s/EC-Earth3-Veg/ssp585/wc2.1_30s_tmin_EC-Earth3-Veg_ssp585_2021-2040.tif
+https://geodata.ucdavis.edu/cmip6/30s/EC-Earth3-Veg/ssp585/wc2.1_30s_tmax_EC-Earth3-Veg_ssp585_2021-2040.tif
+https://geodata.ucdavis.edu/cmip6/30s/EC-Earth3-Veg/ssp585/wc2.1_30s_prec_EC-Earth3-Veg_ssp585_2021-2040.tif
+https://geodata.ucdavis.edu/cmip6/30s/FIO-ESM-2-0/ssp585/wc2.1_30s_bioc_FIO-ESM-2-0_ssp585_2021-2040.tif
