@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-# Wildfire-modelling
-Wildfire susceptibility modelling using machine learning by integrating bioclimatic variables, climate and fire indices, topographical factors, vegetation cover, and socio-economic datasets.
-=======
-# Wildfire Hazard Modeling Report
+
+# Wildfire Hazard Modeling
 
 ## Introduction
 This project models wildfire hazard distribution using the Maximum Entropy (Maxent) algorithm, a proven approach for presence-only ecological niche modeling. The analysis combines observed wildfire occurrence points with environmental, vegetation, topographic, and socioeconomic predictors to produce probabilistic hazard maps for operational wildfire risk assessment.
